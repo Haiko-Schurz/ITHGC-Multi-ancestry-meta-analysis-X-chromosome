@@ -6,7 +6,7 @@ These scripts were used to do the X-chromosome specific analysis of the Internat
 
 **SexBiasAdmixture.R**: Script to assess significant differences in ancestral components between males and females. Ancestral proportions of the X chromosome and autosome were calculated using the Admixture version software https://dalexander.github.io/admixture/download.html.  
 
-**Modeling X chromosome inactivation. **
+**Modeling X chromosome inactivation**
 These scripts were used to model X chromosome inactivation in the X-linked genetic association testing. THe scripts were translated from MatLab code and altered. Original script and methods were obtainerd from: Wang J and Shete S, 2014, Genetic Epidemiology
 **fxchrom.R:** Script to performing association test for X-chromosome, while modelling different variations of X chromosome inactivation for females. 
 **fLLR.R:** Log-likelihood ratio testing function for the fxchrom.R script to determine the most likely X chromosome inactivation model. 
